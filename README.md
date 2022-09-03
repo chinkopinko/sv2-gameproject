@@ -42,7 +42,7 @@ eisen game:
 
 game
 
-split screen boven onder player 1 en player 12
+split screen boven onder player 1 en player 2
 - dino chrome game achtig concept
 - mogelijkheden om te bewegen link rechts boven onder
 - wereld gaat (steeds sneller) voorbij
